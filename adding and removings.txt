@@ -1,1 +1,8 @@
-add a progress bar
+add a progress bar (DONE)[Progress Details]
+multi-algoritmic hashing
+export[txt,CSV,PDF]
+history
+tree structure
+CRC32
+Native
+
