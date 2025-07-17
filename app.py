@@ -4,6 +4,8 @@ import os
 import shutil
 import zipfile
 from utils.hasherCore import hash_file, hash_folder, verify_file_hash, SUPPORTED_ALGOS
+from utils.progress import compute_folder_hash_with_progress
+
 
 st.set_page_config(page_title="Hasher Tool GUI", layout="centered")
 st.title("🔐 Hasher Tool")
